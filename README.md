@@ -1,7 +1,5 @@
 # git-gyakorlo-01
 
-# git-gyakorlo-01
-
 ## Feladat
 
 1. Fork-old le ezt a repót a saját GitHub-fiókodba (jobb felül, **Fork** gomb).
