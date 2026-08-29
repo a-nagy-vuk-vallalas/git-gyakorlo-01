@@ -1,6 +1,6 @@
 # git-gyakorlo-01
 feladat:
-https://hub.com/a-nagy-vuk-vallalas/git-gyakorlo-01 forkold le
-majd VScode git clone https://github.com/a-nagy-vuk-vallalas/git-gyakorlo-01
+https://github.com/a-nagy-vuk-vallalas/git-gyakorlo-01 forkold le
+majd VScode git clone https://github.com/a-nagy-vuk-vallalas/forknév
 majd c:\valasz.txt
-majd git commit majd git push majd git felületen pul request a forkolt repóból.
+majd git add majd git commit majd git push majd git felületen pul request a forkolt repóból.
